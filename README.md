@@ -50,5 +50,7 @@ python main.py
 
 # Acknowledgments
 The authors sincerely hope to receive any suggestions from you!
+
 Of note, each input data of HLAIImaster in our study is too large to upload. 
-If readers want to further study the epitope immunogenicity prediction according to our study, please contact us at once. Email: YJ2197224605@163.com
+If readers want to further study the epitope immunogenicity prediction according to our study, please contact us at once. 
+Email: YJ2197224605@163.com
