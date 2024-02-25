@@ -2,6 +2,11 @@
 
 While significant strides have been made in predicting neoepitopes that trigger autologous CD4+ T cell responses, accurately identifying the antigen presentation by human leukocyte antigen (HLA) class II molecules remains a challenge. This identification is critical for developing vaccines and cancer immunotherapies. Current prediction methods are limited, primarily due to a lack of high-quality training epitope datasets and algorithmic constraints. To predict the exogenous HLA class II-restricted peptides across most of the human population, we utilized the mass spectrometry data to profile > 223,000 eluted ligands over HLA-DR, -DQ, and -DP alleles. Here, by integrating this data with peptide processing and gene expression, we introduce HLAIImaster, an attention-based deep learning framework with adaptive domain knowledge for predicting neoepitope immunogenicity. Leveraging diverse biological characteristics and our enhanced deep learning framework, HLAIImaster is significantly improved against existing tools in terms of positive predictive value across various neoantigen studies. Robust domain knowledge learning accurately identifies neoepitope immunogenicity, bridging the gap between neoantigen biology and the clinical setting and paving the way for future neoantigen-based therapies to provide greater clinical benefit. In summary, we present a comprehensive exploitation of the immunogenic neoepitope repertoire of cancers, facilitating the effective development of “just-in-time” personalized vaccines.
 
+## Flowchart
+<p align="center">
+<img src="https://github.com/TomasYang001/HLAIImaster/DrugMGR/blob/main/HLAIImaster.png" align="middle" height="80%" width="80%" />
+</p>
+
 
 
 ## The environment of HLAIImaster
