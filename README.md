@@ -4,7 +4,7 @@ While significant strides have been made in predicting neoepitopes that trigger 
 
 ## Flowchart
 <p align="center">
-<img src="https://github.com/TomasYang001/HLAIImaster/DrugMGR/blob/main/HLAIImaster.png" align="middle" height="80%" width="80%" />
+<img src="https://github.com/TomasYang001/HLAIImaster/blob/main/HLAIImaster.png" align="middle" height="80%" width="80%" />
 </p>
 
 
